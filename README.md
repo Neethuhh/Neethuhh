@@ -1,10 +1,28 @@
-# Hi, I'm Neethu 👋
+<h1 align="center">Hi there, I'm Neethu. 👋</h1>
 
-Data Science & Machine Learning enthusiast, currently pursuing my B.Tech in Computer Science and Engineering. I like turning messy data and vague requirements into things that actually work — chatbots, classifiers, and full-stack systems.
+<p align="center">
+🎓 B.Tech Computer Science student, currently exploring <b>Data Science & Machine Learning</b> — building models, chatbots, and full-stack systems that actually solve problems.
+</p>
+
+<p align="center">
+❌ Just watching tutorials.  ✅ <b>Shipping real projects and applying to roles.</b>
+</p>
+
+<p align="center">
+<a href="https://linkedin.com/in/neethu-o-s">LinkedIn</a> ·
+<a href="#-featured-projects">See my projects</a> ·
+<a href="mailto:neethusahadevan30@gmail.com">Get in touch →</a>
+</p>
+
+---
+
+**Right now:**
+- 🔭 Building end-to-end ML projects — from RAG chatbots to emergency-response systems
+- 📚 Sharpening skills in distributed systems (fresh off an Elite NPTEL certification, IIT Kanpur)
+- 🎯 Actively looking for Data Science / ML internship & entry-level opportunities
+- 💬 Open to collaborating on NLP, applied ML, or full-stack + ML projects
 
 📍 Palakkad, Kerala, India
-📧 neethusahadevan30@gmail.com
-🔗 [LinkedIn](https://linkedin.com/in/neethu-o-s)
 
 ---
 
@@ -40,7 +58,7 @@ Data Science & Machine Learning enthusiast, currently pursuing my B.Tech in Comp
 
 ---
 
-## 💼 Featured Projects
+## 💼 Featured Projects <a name="-featured-projects"></a>
 
 ### 🎓 College Information Assistant (RAG Chatbot)
 A Retrieval-Augmented Generation chatbot that answers college queries — admissions, attendance, hostel, fees — straight from local documents.
