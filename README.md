@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Neethu O S</h1>
-<h3 align="center">Data Science & Machine Learning Enthusiast | CSE Undergraduate</h3>
+<h3 align="center">Data Science & ML Enthusiast | Business Analysis | Data Visualization | CSE Undergraduate</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Always+Learning%2C+Always+Building" alt="Typing SVG" />
@@ -11,7 +11,7 @@
 
 - 🎓 Bachelor of Technology in Computer Science and Engineering @ KMCT Institute of Technology and Management
 - 🔍 Data Science & ML Intern at **Techmaghi**, where I built a Fake News Detection system and a Movie Recommendation engine
-- 🤖 Passionate about **Business Analysis**, **Building Dashboards**,**Transforming raw data into meaningful insights** and web developing
+- 🤖 Passionate about **Business Analysis**, **Building Dashboards**, **Transforming raw data into meaningful insights** and web developing
 - 🌐 Recently completed an **Elite NPTEL Certification in Peer-to-Peer Networks** (IIT Kanpur)
 - 📍 Based in Palakkad, Kerala, India
 
@@ -65,18 +65,6 @@ Analytical Thinking · Team Collaboration · Effective Communication · Problem-
 - 💼 **Google Career Certificate: Accelerate Your Job Search with AI** – Coursera
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Neethuhh&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neethuhh&layout=compact&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Neethuhh&hide_border=true" />
-</p>
-
 
 ### 📫 Connect With Me
 
