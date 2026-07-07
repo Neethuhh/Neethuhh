@@ -1,50 +1,96 @@
-# Hi there, I'm Neethu O S 👋
+<h1 align="center">Hi 👋, I'm Neethu O S</h1>
+<h3 align="center">Data Science & Machine Learning Enthusiast | CSE Undergraduate</h3>
 
-🎓 B.Tech in Computer Science Engineering @ KMCT Institute of Technology and Management (CGPA: 8.75)
-🤖 Data Science & Machine Learning enthusiast, passionate about NLP, RAG systems, and building real-world tech solutions.
-
-❌ Just writing code. ✅ Building projects that solve real problems.
-
-[College RAG Chatbot](https://github.com/Neethuhh/college-info-rag-chatbot) · [REACURE](https://github.com/Neethuhh) · [My Portfolio](https://github.com/Neethuhh/my-portfolio)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Always+Learning%2C+Always+Building" alt="Typing SVG" />
+</p>
 
 ---
 
-### 🚀 What I'm building
+### 🧑‍💻 About Me
 
-- 🤖 **College Information Assistant (RAG Chatbot)** — A Retrieval-Augmented Generation chatbot answering college queries (admissions, attendance, hostel, fees) from local documents, using HuggingFace embeddings, LangChain, ChromaDB, and an optimized chunking strategy for better retrieval accuracy.
-- 🚨 **REACURE – Community Emergency Management System** — A platform bridging real-time communication between citizens and rescue teams during crises, built with Python, MySQL, and Flutter, with Level 0/1 Data Flow Diagrams mapping the system.
-- 📰 **Fake News Detection** — An NLP-based classification system to detect fake news, built during my internship at Techmaghi.
-- 🎬 **Movie Recommendation System** — A similarity-based filtering recommender system.
-- 📈 **Sales Analytics Dashboard** — End-to-end data cleaning in Python + interactive Tableau dashboard on real-world retail data.
+- 🎓 Bachelor of Technology in Computer Science and Engineering @ KMCT Institute of Technology and Management
+- 🔍 Data Science & ML Intern at **Techmaghi**, where I built a Fake News Detection system and a Movie Recommendation engine
+- 🤖 Passionate about **Business Analysis**, **Building Dashboards**,**Transforming raw data into meaningful insights** and web developing
+- 🌐 Recently completed an **Elite NPTEL Certification in Peer-to-Peer Networks** (IIT Kanpur)
+- 📍 Based in Palakkad, Kerala, India
 
 ---
 
-### 💼 Experience
+### 🚀 Featured Projects
 
-**Data Science & Machine Learning Intern** — Techmaghi, Kochi *(June 2025)*
-Trained in data preprocessing and ML fundamentals; built classification and recommendation systems; performed EDA and visualization with Pandas, Matplotlib, and Seaborn.
+**🔹 College Information Assistant (RAG Chatbot)**
+A Retrieval-Augmented Generation chatbot that answers college-related queries (admissions, attendance, hostel, fees) by retrieving from local documents.
+`Python` `HuggingFace` `Streamlit` `LangChain` `ChromaDB`
+- Implemented semantic search using HuggingFace embeddings with an optimized chunking strategy for improved retrieval accuracy.
+
+**🔹 REACURE – Community Emergency Management System**
+An emergency management platform bridging real-time communication between citizens and rescue teams during crisis situations.
+`Python` `MySQL` `Flutter` `DFDs`
+- Designed Level 0 and Level 1 Data Flow Diagrams to map how user data flows through the application.
+
+**🔹 Fake News Detection System**
+Built using NLP and classification algorithms during my internship at Techmaghi.
+
+**🔹 Movie Recommendation System**
+A similarity-based filtering engine for personalized movie recommendations.
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Languages:** `Python` · `C` · `R` · `Java`
-**Tools & Frameworks:** `LangChain` · `ChromaDB` · `HuggingFace` · `Streamlit` · `Tableau` · `SQL` · `Excel`
-**Concepts:** P2P Architecture · Data Flow Diagrams · Project Design · Requirements Gathering
+**Languages**
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
+![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=r)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+
+**Tools & Frameworks**
+![Tableau](https://img.shields.io/badge/-Tableau-black?style=flat-square&logo=tableau)
+![Excel](https://img.shields.io/badge/-Excel-black?style=flat-square&logo=microsoftexcel)
+![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=mysql)
+![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-black?style=flat-square)
+![Seaborn](https://img.shields.io/badge/-Seaborn-black?style=flat-square)
+
+**Core Strengths**
+Analytical Thinking · Team Collaboration · Effective Communication · Problem-Solving · Requirements Gathering · Workflow Design
 
 ---
 
 ### 📜 Certifications
 
-- 🏅 **Elite NPTEL Certification – Peer to Peer Networks**, IIT Kanpur *(Feb–Apr 2026)*
-- 🤖 **Bootcamp on Artificial Intelligence**, NIELIT Calicut *(Feb 2025)*
-- 💼 **Google Career Certificate: Accelerate Your Job Search with AI**, Coursera *(Feb 2026)*
+- 🏅 **Elite NPTEL Certification – Peer to Peer Networks** (IIT Kanpur, funded by MoE, Govt. of India)
+- 🤖 **Bootcamp on Artificial Intelligence** – NIELIT Calicut (FutureSkills PRIME Initiative)
+- 💼 **Google Career Certificate: Accelerate Your Job Search with AI** – Coursera
 
 ---
 
-### 📫 Let's connect
+### 📊 GitHub Stats
 
-- 💼 [LinkedIn](https://linkedin.com/in/neethu-o-s)
-- 📧 neethusahadevan30@gmail.com
-- 📍 Palakkad, Kerala, India
-- Open to internships & collaborations!
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Neethuhh&show_icons=true&theme=default&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neethuhh&layout=compact&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Neethuhh&hide_border=true" />
+</p>
+
+
+### 📫 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/neethu-o-s/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:neethusahadevan30@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+
+📱 +91 99617 32560 &nbsp;|&nbsp; 📍 Palakkad, Kerala, India
+
+---
+
+<p align="center"><i>Thanks for stopping by — always open to collaborating on data science, ML, and NLP projects! 🚀</i></p>
