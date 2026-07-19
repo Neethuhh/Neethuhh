@@ -11,6 +11,7 @@
 
 - 🎓 Bachelor of Technology in Computer Science and Engineering @ KMCT Institute of Technology and Management
 - 🔍 Data Science & ML Intern at **Techmaghi**, where I built a Fake News Detection system and a Movie Recommendation engine
+- - 📊 Completed a **Data Science & Analytics Internship** at Future Interns, working on projects using Python and Tableau
 - 🤖 Passionate about **Business Analysis**, **Building Dashboards**, **Transforming raw data into meaningful insights** and web developing
 - 🌐 Recently completed an **Elite NPTEL Certification in Peer-to-Peer Networks** (IIT Kanpur)
 - 📍 Based in Palakkad, Kerala, India
@@ -29,11 +30,11 @@ An emergency management platform bridging real-time communication between citize
 `Python` `MySQL` `Flutter` `DFDs`
 - Designed Level 0 and Level 1 Data Flow Diagrams to map how user data flows through the application.
 
-**🔹 Fake News Detection System**
-Built using NLP and classification algorithms during my internship at Techmaghi.
-
-**🔹 Movie Recommendation System**
-A similarity-based filtering engine for personalized movie recommendations.
+**🔹 Retail & Telecom Analytics Dashboards**
+Built during my Data Science & Analytics internship at Future Interns.
+`Python` `Pandas` `Tableau`
+- Built a dashboard analyzing $694K in retail revenue across top products and regions.
+- Analyzed churn on 7,043 telecom customers, uncovering a 26.5% churn rate and $139K revenue at risk.
 
 ---
 
@@ -52,6 +53,8 @@ A similarity-based filtering engine for personalized movie recommendations.
 ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-black?style=flat-square)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-black?style=flat-square)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=jupyter)
 
 **Core Strengths**
 Analytical Thinking · Team Collaboration · Effective Communication · Problem-Solving · Requirements Gathering · Workflow Design
@@ -63,6 +66,7 @@ Analytical Thinking · Team Collaboration · Effective Communication · Problem-
 - 🏅 **Elite NPTEL Certification – Peer to Peer Networks** (IIT Kanpur, funded by MoE, Govt. of India)
 - 🤖 **Bootcamp on Artificial Intelligence** – NIELIT Calicut (FutureSkills PRIME Initiative)
 - 💼 **Google Career Certificate: Accelerate Your Job Search with AI** – Coursera
+- - 🏆 **Certificate of Completion – One Million Prompters Initiative**, Dubai Future Foundation (June 2026)
 
 ---
 
