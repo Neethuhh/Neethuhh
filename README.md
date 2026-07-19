@@ -11,7 +11,7 @@
 
 - 🎓 Bachelor of Technology in Computer Science and Engineering @ KMCT Institute of Technology and Management
 - 🔍 Data Science & ML Intern at **Techmaghi**, where I built a Fake News Detection system and a Movie Recommendation engine
-- - 📊 Completed a **Data Science & Analytics Internship** at Future Interns, working on projects using Python and Tableau
+- 📊 Completed a **Data Science & Analytics Internship** at Future Interns, working on projects using Python and Tableau
 - 🤖 Passionate about **Business Analysis**, **Building Dashboards**, **Transforming raw data into meaningful insights** and web developing
 - 🌐 Recently completed an **Elite NPTEL Certification in Peer-to-Peer Networks** (IIT Kanpur)
 - 📍 Based in Palakkad, Kerala, India
