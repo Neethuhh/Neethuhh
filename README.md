@@ -66,7 +66,7 @@ Analytical Thinking · Team Collaboration · Effective Communication · Problem-
 - 🏅 **Elite NPTEL Certification – Peer to Peer Networks** (IIT Kanpur, funded by MoE, Govt. of India)
 - 🤖 **Bootcamp on Artificial Intelligence** – NIELIT Calicut (FutureSkills PRIME Initiative)
 - 💼 **Google Career Certificate: Accelerate Your Job Search with AI** – Coursera
-- - 🏆 **Certificate of Completion – One Million Prompters Initiative**, Dubai Future Foundation (June 2026)
+- 🏆 **Certificate of Completion – One Million Prompters Initiative**, Dubai Future Foundation (June 2026)
 
 ---
 
